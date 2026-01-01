@@ -2,8 +2,6 @@
 
 <a href="https://www.linkedin.com/in/adiletkdev/">
 <img alt="Adilet on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
-<a href="https://stackoverflow.com/users/21271827/adilet-kozubaev">
-<img alt="Adilet's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> &nbsp;
 <br/>
 <br/>
 
