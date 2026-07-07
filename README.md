@@ -26,13 +26,10 @@ Here are some ideas to get you started:
 
 [![Linkedin follow @adiletkdev](https://img.shields.io/badge/-adiletkdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiletkdev/)](https://www.linkedin.com/in/adiletkdev/) &nbsp;
 
-### Languages and Tools
+### 📊 GitHub Stats
 
-<a href="https://github.com/adiletkdev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiletkdev&theme=light&count_private=true" alt="Adilet's most used languages" /></a>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adiletkdev&show_icons=true&theme=light&hide_border=true"/>
 
+### 💻 Most Used Languages
 
-### My GitHub Stats
-
-<a href="https://github.com/adiletkdev">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=adiletkdev&show_icons=true&theme=light&line_height=27" alt="Adilet's GitHub stats"/></a>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adiletkdev&layout=compact&theme=light&hide_border=true"/>
