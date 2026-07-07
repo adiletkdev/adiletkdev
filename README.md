@@ -1,10 +1,10 @@
 Hi there! 👋😄
 
-I'm Adilet Kozubaev, a Senior Java Software Engineer focused on building scalable backend systems and microservices.
+I'm Adilet Kozubaev, a Senior Java Software Engineer focused on building scalable backend systems, microservices, and distributed applications.
 
-- 💬 Ask me about Java, Spring Boot, Microservices, JavaScript/TypeScript
+- 💬 Ask me about Java, Spring Boot, Spring Cloud, microservices, JavaScript/TypeScript
 - 🌱 Currently learning Cloud Native Architecture and System Design
-- 🚀 Interested in high-load, distributed systems and backend architecture
+- 🚀 Interested in high-load applications, distributed systems, and backend architecture
 - 📫 How to reach me: LinkedIn 
 [![Linkedin follow @adiletkdev](https://img.shields.io/badge/-adiletkdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiletkdev/)](https://www.linkedin.com/in/adiletkdev/) &nbsp;
 
