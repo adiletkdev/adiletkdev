@@ -1,30 +1,17 @@
-## Hi there! 👋😄
+Hi there! 👋😄
 
-<a href="https://www.linkedin.com/in/adiletkdev/">
-<img alt="Adilet on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
+I'm Adilet Kozubaev, a Senior Java Software Engineer focused on building scalable backend systems and microservices.
+
+<a href="https://www.linkedin.com/in/adiletkdev/"> <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+
 <br/>
+
+💬 Ask me about Java, Spring Boot, Microservices, JavaScript/TypeScript
+🌱 Currently learning Cloud Native Architecture and System Design
+🚀 Interested in high-load, distributed systems and backend architecture
+📫 How to reach me: LinkedIn
+
 <br/>
-
-- 💬 Ask me about Java, JS/TS.
-- 😄 Pronouns: He/him.
-- 📫 How to reach me: ...
-
-<!--
-**adiletkdev/adiletkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Linkedin follow @adiletkdev](https://img.shields.io/badge/-adiletkdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiletkdev/)](https://www.linkedin.com/in/adiletkdev/) &nbsp;
 
 ### 📊 GitHub Stats
 
